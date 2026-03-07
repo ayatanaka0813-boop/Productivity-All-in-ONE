@@ -2,3 +2,4 @@
   for = "/*"
   [headers.values]
     Content-Security-Policy = ""
+    X-Content-Security-Policy = ""
